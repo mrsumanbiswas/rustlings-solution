@@ -1,2 +1,5 @@
-# rustlings-solutions
-Rustling-solutions
+# rustlings-solution
+Rustling Solution
+
+Topic wise -
+- 
