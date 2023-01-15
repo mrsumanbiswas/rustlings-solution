@@ -1,7 +1,6 @@
 // primitive_types2.rs
 
-
-// I AM NOT DONE
+// I AM DONE
 
 fn main() {
     // Characters (`char`)
